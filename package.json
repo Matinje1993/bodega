@@ -17,7 +17,8 @@
   "dependencies": {
     "@nuxt/image": "^1.10.0",
     "@nuxt/ui": "^2.21.1",
-    "@nuxthub/core": "0.8.11",
+    "@nuxthub/core": "0.8.24",
+    "@splidejs/vue-splide": "^0.6.12",
     "notivue": "^2.4.5",
     "nuxt": "^3.16.1",
     "nuxt-graphql-request": "^8.1.1",
