@@ -28,7 +28,7 @@ export default defineNuxtConfig({
   graphql: {
     clients: {
       default: {
-        endpoint: process.env.GQL_HOST || '',
+        endpoint: 'https://demo.bodega.co.ke/graphql',
       },
     },
   },
